@@ -35,7 +35,11 @@ to try out the package::
 
 '''
 
+<<<<<<< HEAD
 __version__ = '1.7.1'
+=======
+__version__ = '1.6.2'
+>>>>>>> upstream/master
 
 import os
 # Avoid too many threads being created in OMP loops.
